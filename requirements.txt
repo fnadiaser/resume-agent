@@ -1,0 +1,5 @@
+langchain-gigachat
+langchain-core
+langchain-community
+pydantic
+beautifulsoup4
